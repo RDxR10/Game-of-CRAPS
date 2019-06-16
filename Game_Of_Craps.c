@@ -3,7 +3,7 @@
 #include<ctype.h>
 #include<time.h>
 
-//#define SEED 12345//
+
 void play(void);
 int throw(void);
 
